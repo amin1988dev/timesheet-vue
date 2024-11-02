@@ -1,5 +1,7 @@
 # timesheet-frontend
 
+![Demo](./assets/Timesheet.gif)
+
 ## Project setup
 ```
 npm install
